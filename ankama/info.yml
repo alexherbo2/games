@@ -1,0 +1,8 @@
+Name: Ankama
+Region: France
+Download: https://ankama.com/en/games
+
+Paths:
+  ankama/games/Dofus: ~/.config/Ankama/Dofus
+  ankama/configuration/Dofus: ~/.wine/drive_c/users/user/Application_Data/Dofus
+  ankama/certificates: ~/.wine/drive_c/users/user/Application_Data/AnkamaCertificates/v2-RELEASE
